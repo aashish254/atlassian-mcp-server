@@ -49,7 +49,7 @@ The **official Atlassian Rovo MCP Server** is a cloud-based bridge between your 
 With the Atlassian Rovo MCP Server, you can:
 
 * **Summarize and search** Jira, Jira Service Management, Confluence, Bitbucket, Projects, Goals, and more without switching tools.
-* **Retrieve and review** recordings of videos and meetings from Loom.
+* **Retrieve and review** recordings of videos and meetings from Loom
 * **Create and update** work items or pages based on natural language commands.
 * **Automate repetitive work**, like generating work items from meeting notes or specs.
 
